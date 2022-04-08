@@ -1,5 +1,4 @@
 # catboost-strenght-calculator
--
 
 Beton jest najważniejszym materiałem w inżynierii lądowej i wodnej. Wytrzymałość betonu na ściskanie jest wysoce nieliniową funkcją wieku i składników. Składniki te obejmują cement, żużel wielkopiecowy, popiół lotny, wodę, superplastyfikator, kruszywo grube i kruszywo drobne.
 
