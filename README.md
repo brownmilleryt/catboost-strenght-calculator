@@ -16,3 +16,10 @@ W niniejszym opracowaniu zostaną wykorzystane następujące modele:
 3. Model regresji sieci elastycznej (elastic net)
 4. Model regresji opartej na sekwencja drzew regresji (DecisionTreeRegressor)
 5. cnd....
+
+
+
+
+## Cel projektu
+
+Celem projektu jest opracowanie uproszczonego modelu predykcji wytrzymałości betonu na ściskanie na który będą mogli wykorzystywać studenci kierunków budownictwo i inżynieria materiałowa a w przyszłości aplikację która do trenowania modeli będzie przyjmować wartości wprowadzone do arkusza kalkulacjnego
