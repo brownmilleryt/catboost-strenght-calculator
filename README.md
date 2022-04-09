@@ -14,7 +14,7 @@ W niniejszym opracowaniu zostaną wykorzystane następujące modele:
 1. Model regresji grzbietowej (ridge regression)
 2. Model regresji LASSO (least absolute shrinkage and selection operator)
 3. Model regresji sieci elastycznej (elastic net)
-4. Model regresji opartej na sekwencja drzew regresji (DecisionTreeRegressor)
+4. Model regresji opartej na sekwencja drzew regresji (decision tree regression)
 5. cnd....
 
 
