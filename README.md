@@ -18,12 +18,13 @@ Jest to modyfikacja moich wcześniejszych modeli.
 - [x] Dokształcić się w dziedzinie teoretycznej ML
 - [ ] Zapoznać się z danymi i opracowanie najbardziej optymalnej metody czyszczenia danych.
 - [ ] Opracować wstępną wersję notatnika i kodu
-  - [ ] Dodać predykcję poszczególnych wartości
-  - [ ] Dodać predykcję przyrostu wartości wytrzymałości na ściskanie w czasie 
+  - [ ] Dodać predykcję poszczególnych wartości wytrzymałości betonu na ściskanie po x dniach
+  - [ ] Dodać predykcję przyrostu wartości wytrzymałości na ściskanie w czasie od 0 do x dni
 - [ ] Dodać obsługę wprowadzania danych za pomocą arkusza Excel
 - [ ] Dodać obsługę wprowadzania danych za pomocą arkuszy google
 - [ ] Dodać plik *requirements.txt*
 - [ ] Dodać więcej wykresów.
+- [ ] Stworzenie aplikacji internetowej pozwalającej na wykorzystanie modelu w czasie rzeczywistym
 
 ## Cel projektu
 
