@@ -10,9 +10,9 @@ Ponieważ jest to problem regresji, do oceny modelu użyjemy błędu średniokwa
 
 Jest to modyfikacja moich wcześniejszych modeli. 
 
-Wyjściowy plik w formacie .xlsx będzie zawierał zarówno predykcję wytrzymałości na ściskanie po 28 dniach, ocenę przyrostu wytrzymałości w czasie (do 28 dni) oraz porównanie tabelaryczne różnych modeli wykorzystywanych w uczeniu maszynowym. 
+### Wyjściowy plik w formacie .xlsx będzie zawierał zarówno predykcję wytrzymałości na ściskanie po 28 dniach, ocenę przyrostu wytrzymałości w czasie (do 28 dni) oraz porównanie tabelaryczne różnych modeli wykorzystywanych w uczeniu maszynowym. 
 
-Wyjściowy plik w formacie .xlsx będzie plikiem modyfikowalnym a cały skrypt zapisany w formacie edytowalnego notatnika Jupyter dzięki czemu będzie możliwa bieżąca zmiana składników w mieszance betonowej i śledzenie ich wpływu na przewidywaną wytrzymałość betonu.
+### Wyjściowy plik w formacie .xlsx będzie plikiem modyfikowalnym a cały skrypt zapisany w formacie edytowalnego notatnika Jupyter dzięki czemu będzie możliwa bieżąca zmiana składników w mieszance betonowej i śledzenie ich wpływu na przewidywaną wytrzymałość betonu.
 
 W niniejszym opracowaniu zostaną wykorzystane następujące modele:
 1. Model regresji grzbietowej (ridge regression)
