@@ -16,7 +16,7 @@ Jest to modyfikacja moich wcześniejszych modeli.
 
 - [x] Spisać założenia projektowe i znaleźć materiały
 - [x] Dokształcić się w dziedzinie teoretycznej ML
-- [ ] Zapoznać się z danymi i opracowanie najbardziej optymalnej metody czyszczenia danych.
+- [x] Zapoznać się z danymi i opracowanie najbardziej optymalnej metody czyszczenia danych.
 - [ ] Opracować wstępną wersję notatnika i kodu
   - [ ] Dodać predykcję poszczególnych wartości wytrzymałości betonu na ściskanie po x dniach
   - [ ] Dodać predykcję przyrostu wartości wytrzymałości na ściskanie w czasie od 0 do x dni
