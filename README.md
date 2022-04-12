@@ -27,3 +27,7 @@ W niniejszym opracowaniu zostaną wykorzystane następujące modele:
 ## Cel projektu
 
 Celem projektu jest opracowanie uproszczonego modelu predykcji wytrzymałości betonu na ściskanie na który będą mogli wykorzystywać studenci kierunków budownictwo i inżynieria materiałowa a w przyszłości aplikację która do trenowania modeli będzie przyjmować wartości wprowadzone do arkusza kalkulacjnego.
+
+## Zastosowanie
+
+Używając niniejszego modelu możliwe będzie zbudowanie modeli uczenia maszynowego do przewidiwyania wytrzymałości betonu na ściskanie na podstawie takich parametrów jak zawartość powietrza, temperatura w okresie dojrzewania etc. 
