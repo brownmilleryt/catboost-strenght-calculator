@@ -15,6 +15,8 @@ Jest to modyfikacja moich wcześniejszych modeli.
 ## To Do
 
 - [x] Spisać założenia projektowe i znaleźć materiały
+  - [x] Dataset
+  - [x] Pomysł i cel  
 - [x] Dokształcić się w dziedzinie teoretycznej ML
 - [x] Zapoznać się z danymi i opracowanie najbardziej optymalnej metody czyszczenia danych.
 - [ ] Opracować wstępną wersję notatnika i kodu
