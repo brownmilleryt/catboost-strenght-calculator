@@ -27,6 +27,8 @@ Jest to modyfikacja moich wcześniejszych modeli.
 - [ ] Dodać plik *requirements.txt*
 - [ ] Dodać więcej wykresów.
 - [ ] Stworzenie aplikacji internetowej pozwalającej na wykorzystanie modelu w czasie rzeczywistym
+- [ ] Stworzyć metodę automatycznego przygotowania danych wejściowych
+- [ ] Umożliwić trenowanie modeli za pomocą danych wprowadzonych do aplikacji internetowej
 
 ## Cel projektu
 
